@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://www.dataroma.com/m/home.php"
+url = ""
 
 # Define custom headers to mimic a web browser request
 headers = {
