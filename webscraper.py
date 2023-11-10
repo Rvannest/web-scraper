@@ -4,11 +4,11 @@ import psycopg2
 
 # Database connection parameters
 db_params = {
-    'dbname': '4150_Project',
-    'user': 'postgres',
-    'password': '1234',
-    'host': 'localhost',
-    'port': '5432'  # default PostgreSQL port is 5432
+    'dbname': '',
+    'user': '',
+    'password': '',
+    'host': '',
+    'port': ''  # default PostgreSQL port is 5432
 }
 
 # Function to insert data into the database
