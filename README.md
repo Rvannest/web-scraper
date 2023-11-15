@@ -1,2 +1,2 @@
 # web-scraper
-Testing out a python web scraper for a website, doesn't work yet
+Testing out a python web scraper for a website
